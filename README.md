@@ -16,5 +16,5 @@ The objective of this project is to perform analysis on crucial sales and financ
 10. Profit and Loss seen on a market level
 11. Gross Margin% in 2019, 2020 and 2021 seen on a sub-zone level
 
-The above analysis has helped in understanding the business more and in what areas things can be modified to yield higher results. In this way, a business's analysis to drive decisiona and Excel has proved to be a great tool for that purpose.
+The above analysis has helped in understanding the business more and in what areas things can be modified to yield higher results. In this way, a business's analysis to drive decision can be done and Excel has proved to be a great tool for that purpose.
 
