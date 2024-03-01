@@ -26,7 +26,7 @@ The objective of this project is to perform analysis on crucial sales and financ
 
 11. Gross Margin% in 2019, 2020 and 2021 seen on a sub-zone level: This report shows the Gross Margin% in 2019, 2020 and 2021 visible on sub-zone level. These numbers can be seen on a quarterly level. There are 6 subzones in this business namely: 1.ANZ 2.India 3.NA 4.NE 5.ROA 6.SE 
 
-**Note: The Fiscal Year of this year starts from September every year**
+**Note: The Fiscal Year of this company starts from September every year**
 
 The above analysis has helped in understanding the business more and in what areas things can be modified to yield higher results. In this way, a business's analysis to drive decisions can be done and with this project we can clearly see that Excel has proved to be a great tool for that purpose.
 
